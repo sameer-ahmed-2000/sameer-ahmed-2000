@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sameer-ahmed-2000
-- 👀 I’m interested in Data Science/Data Analysis
-- 🌱 I’m currently learning Deep Learnings 
-- 💞️ I’m looking to collaborate on real world Data Science projects
 - 📫 How to reach me?
 you can send mail to sameersameersmr20@gmail.com
 
